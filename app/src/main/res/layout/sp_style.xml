@@ -1,0 +1,10 @@
+<TextView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textSize="20sp"
+android:layout_marginTop="100dp"
+    android:textColor="#123"
+    android:background="#ccb3b3"
+    android:padding="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+</TextView>
